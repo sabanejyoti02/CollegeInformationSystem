@@ -1,2 +1,2 @@
 # CollegeInformationSystem
-# Author  
+# Author  : Jyoti Sabane
